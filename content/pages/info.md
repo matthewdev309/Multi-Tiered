@@ -71,7 +71,7 @@ sections:
         actions:
           - type: Button
             label: Youtube
-            altText: ''
+            altText: Youtube
             url: 'https://www.youtube.com/@Multi-Tiered/videos'
             showIcon: false
             icon: arrowRight

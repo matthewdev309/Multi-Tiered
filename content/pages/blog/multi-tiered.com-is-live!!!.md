@@ -36,10 +36,9 @@ We’ve recently transitioned to using **Netlify** and **GitHub Pages** to host 
 
 While the site may be basic right now, we’re working hard behind the scenes to roll out new features and projects. In the near future, you’ll be able to explore:
 
-*   **Privated\[**[**Project 1**](https://multi-tiered.com/projects/project-two/)**]** *- currently in closed testing and private testing, Alpha testing Post coming soon*
+*   **Privated** [**Project 1**](https://multi-tiered.com/projects/project-two/) *- currently in closed testing and private testing, Alpha testing Post coming soon*
 
-*   **Privated\[**[**Project 2**](https://multi-tiered.com/projects/project-three/)] - *currently in development* ****
-
+*   **Privated** [**Project 2**](https://multi-tiered.com/projects/project-three/) - *currently in development* \*\*\*\*
 
 We’ll keep you posted as these projects take shape, so make sure to bookmark the site and check back regularly.
 
@@ -47,7 +46,7 @@ We’ll keep you posted as these projects take shape, so make sure to bookmark t
 
 Along with the host change and backend, we also have a better blog system with more features for posts/articles and cleaner **Projects pages the website is featured** [***Multi-Tiered Website.***](https://multi-tiered.com/projects/project-one/) We will have a website, Project 1 and Project 2 project pages updated regularly so make sure to check regularly.
 
-#### **What's next?** 
+#### **What's next?**
 
 Working on Project 1 is very important currently so all focus is on that once there is more information we will have posts on [X](https://x.com/multi_tiered) and also videos on [the YouTube channel](https://www.youtube.com/@Multi-Tiered) so follow
 

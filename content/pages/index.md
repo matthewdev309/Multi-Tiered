@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: hh
+    title: ''
     subtitle: Innovative software development studio
     styles:
       self:

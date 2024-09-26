@@ -79,7 +79,7 @@
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "© 2024 Multi-Tiered. All rights reserved.\n\n",
         "styles": {
             "self": {
                 "width": "narrow",

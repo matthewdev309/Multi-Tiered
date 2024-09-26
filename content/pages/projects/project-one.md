@@ -4,7 +4,7 @@ title: Multi-Tiered.com is LIVE!!!
 colors: colors-a
 date: '2024-09-26'
 client: ''
-description: The website is finally live home for our projects and other developments
+description: The website is finally live a home for our projects and other developments
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg

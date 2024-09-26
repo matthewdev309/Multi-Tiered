@@ -3,7 +3,7 @@
     "favicon": "/images/Multi-TieredLogoUp - Copy.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-b",
+        "headerVariant": "variant-a",
         "isSticky": false,
         "title": "Home",
         "isTitleVisible": true,

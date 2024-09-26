@@ -87,7 +87,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: X.com
             altText: ''
             url: 'https://x.com/multi_tiered'
             showIcon: false

@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Project 2 Under development
+title: Project 1 Under development
 colors: colors-a
 date: '2021-12-20'
 client: ''

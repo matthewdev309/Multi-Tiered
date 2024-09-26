@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Welcome to Multi-Tiered
     subtitle: Innovative software development studio
     styles:
       self:

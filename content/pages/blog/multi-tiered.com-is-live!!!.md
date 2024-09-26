@@ -5,7 +5,7 @@ date: '2024-09-26'
 excerpt: multi-tiered website live!
 featuredImage:
   type: ImageBlock
-  url: /images/Multi-Tiered different.png
+  url: /images/post-1.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''

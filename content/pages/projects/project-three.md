@@ -4,7 +4,7 @@ title: Project 2 Under development
 colors: colors-a
 date: '2022-01-22'
 client: ''
-description: Project 2
+description: Project 2 Under development
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg

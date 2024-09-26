@@ -1,0 +1,14 @@
+{
+    "type": "Person",
+    "firstName": "Matthew",
+    "lastName": "Surname",
+    "role": "CEO and Founder",
+    "bio": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "https://assets.stackbit.com/components/images/default/default-person.png",
+        "altText": "Person photo",
+        "caption": "Caption of the image",
+        "elementId": ""
+    }
+}

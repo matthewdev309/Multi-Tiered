@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: Welcome to Multi-Tiered
     subtitle: Innovative software development studio
     styles:

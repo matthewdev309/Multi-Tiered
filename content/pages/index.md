@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     title: Welcome to Multi-Tiered
     subtitle: Innovative software development studio

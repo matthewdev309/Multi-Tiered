@@ -62,14 +62,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/'
         styles:

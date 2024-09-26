@@ -64,13 +64,6 @@ sections:
         subtitle: ''
         text: |
           <https://www.youtube.com/@Multi-Tiered/videos>
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:

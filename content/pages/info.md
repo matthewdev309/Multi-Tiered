@@ -73,7 +73,7 @@ sections:
             altText: Youtube
             url: 'https://www.youtube.com/@Multi-Tiered/videos'
             showIcon: true
-            icon: arrowRight
+            icon: youtube
             iconPosition: right
             style: primary
             elementId: ''

@@ -88,7 +88,7 @@ sections:
         actions:
           - type: Button
             label: X.com
-            altText: ''
+            altText: X.com
             url: 'https://x.com/multi_tiered'
             showIcon: false
             icon: arrowRight

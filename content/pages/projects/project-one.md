@@ -32,6 +32,6 @@ We’ll keep you posted as these projects take shape, so make sure to bookmark t
 
 #### Stay Connected
 
-To stay updated with the latest news, check out our **\[**[**YouTube channel**](https://www.youtube.com/@Multi-Tiered)**]** and follow us on **\[**[**X**](https://x.com/multi_tiered)**]**. For any inquiries or collaboration ideas, feel free to reach out via **\[**[**Email**](multi-tiered@protonmail.com)**]**.
+To stay updated with the latest news, check out our [**YouTube channel**](https://www.youtube.com/@Multi-Tiered) and follow us on [**X**](https://x.com/multi_tiered). For any inquiries or collaboration ideas, feel free to reach out via [**Email.**](multi-tiered@protonmail.com)****
 
 Thank you for your support, and welcome to the Multi-Tiered community!

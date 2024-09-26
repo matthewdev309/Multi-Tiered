@@ -43,7 +43,7 @@
         ],
         "styles": {
             "self": {
-                "width": "full"
+                "width": "wide"
             }
         }
     },

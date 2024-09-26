@@ -133,8 +133,10 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: |+
+      multitiered696\@gmail.com
+
+
   - type: DividerSection
     styles:
       self:

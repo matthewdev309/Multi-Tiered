@@ -62,8 +62,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |
-          <https://www.youtube.com/@Multi-Tiered/videos>
+        text: ''
         elementId: ''
         styles:
           self:

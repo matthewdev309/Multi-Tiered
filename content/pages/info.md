@@ -128,7 +128,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: Follow our socials
   - type: DividerSection
     styles:
       self:

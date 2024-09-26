@@ -111,7 +111,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-four.md
+      - content/pages/blog/multi-tiered.com-is-live!!!.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

@@ -85,6 +85,16 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://x.com/multi_tiered'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0

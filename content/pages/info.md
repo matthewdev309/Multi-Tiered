@@ -58,15 +58,7 @@ sections:
         borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
+    items: []
     columns: 3
     spacingX: 120
     spacingY: 0

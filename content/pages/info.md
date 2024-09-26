@@ -60,7 +60,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        title: Item Title
+        title: ''
         subtitle: ''
         text: |
           <https://www.youtube.com/@Multi-Tiered/videos>

@@ -2,7 +2,7 @@
 type: PostLayout
 title: Multi-Tiered.com is LIVE!!!
 colors: colors-a
-date: '2024-02-01'
+date: '2024-09-01'
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock

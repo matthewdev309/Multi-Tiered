@@ -14,9 +14,6 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
-Project 2 Under development
+Project 1 Under development
 
 as detailed in "Multi-Tiered.com Live" post
-
-
-

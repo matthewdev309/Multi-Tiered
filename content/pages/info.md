@@ -68,6 +68,16 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://www.youtube.com/@Multi-Tiered/videos'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 0

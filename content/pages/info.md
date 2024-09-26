@@ -62,10 +62,8 @@ sections:
       - type: FeaturedItem
         title: Item Title
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          <https://www.youtube.com/@Multi-Tiered/videos>
         featuredImage:
           type: ImageBlock
           url: >-

@@ -78,7 +78,7 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: ''
         subtitle: ''
         text: ''
         featuredImage:

@@ -53,17 +53,6 @@ sections:
           - pb-36
         justifyContent: center
         borderWidth: 1
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -100,6 +89,17 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Featured Projects
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

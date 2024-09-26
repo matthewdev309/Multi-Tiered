@@ -141,6 +141,7 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+    title: multitiered696@gmail.com
   - type: FeaturedItemsSection
     colors: colors-f
     items:

@@ -88,7 +88,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Featured Projects
   - type: DividerSection
     title: Divider
     elementId: ''

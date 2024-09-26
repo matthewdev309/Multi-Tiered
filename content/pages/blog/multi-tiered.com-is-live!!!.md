@@ -5,13 +5,13 @@ date: '2024-09-26'
 excerpt: multi-tiered website live!
 featuredImage:
   type: ImageBlock
-  url: /images/Multi-Tiered different.png
+  url: /images/post-1.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Screenshot 2024-09-26 122352.png
   altText: Post image
   caption: Caption of the image
   elementId: ''

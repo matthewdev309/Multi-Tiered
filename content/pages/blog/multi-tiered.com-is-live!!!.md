@@ -11,7 +11,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Multi-Tiered different.png
+  url: /images/Screenshot 2024-09-26 122352.png
   altText: Post image
   caption: Caption of the image
   elementId: ''

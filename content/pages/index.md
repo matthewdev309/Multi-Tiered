@@ -110,7 +110,8 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-    posts: []
+    posts:
+      - content/pages/blog/multi-tiered.com-is-live!!!.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

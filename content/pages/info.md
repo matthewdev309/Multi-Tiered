@@ -90,7 +90,7 @@ sections:
             label: X.com
             altText: X.com
             url: 'https://x.com/multi_tiered'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary

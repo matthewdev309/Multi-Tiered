@@ -1,11 +1,9 @@
 ---
 type: PostLayout
-title: Sharing my wisdom with the world 🌎
+title: Multi-Tiered.com is LIVE!!!
 colors: colors-a
 date: '2024-02-01'
-author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
@@ -45,7 +43,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -102,34 +100,27 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+author: content/data/team/matthew.json
 ---
+### Multi-Tiered.com is LIVE!!!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+We're excited to announce that [**Multi-Tiered.com**](Multi-Tiered.com) is officially live! This site will be the home for all our projects and developments, and we’re thrilled to finally share it with you.
 
-## Heading 2
+#### New Host, New Design
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+We’ve recently transitioned to using **Netlify** and **GitHub Pages** to host the website. The current design is simple and minimal, but we’re laying the groundwork for exciting new features in the future. The goal is to enhance both functionality and user experience, so stay tuned for updates.
 
-### Heading 3
+While the site may be basic right now, we’re working hard behind the scenes to roll out new features and projects. In the near future, you’ll be able to explore:
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+*   **\[Project 1] - currently in closed testing and private testing, Alpha testing**
 
-```javascript
-{
-  page.content && (
-    <Markdown
-      options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
-      className="sb-markdown max-w-screen-md mx-auto"
-      data-sb-field-path="content"
-    >
-      {page.content}
-    </Markdown>
-  );
-}
-```
+*   **\[Project 2] - currently in development**
 
-In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+We’ll keep you posted as these projects take shape, so make sure to bookmark the site and check back regularly.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+#### Stay Connected
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+To stay updated with the latest news, check out our [**YouTube channel**](https://www.youtube.com/@Multi-Tiered) and follow us on [**X**](https://x.com/multi_tiered). For any inquiries or collaboration ideas, feel free to reach out via [**Email.**](multi-tiered@protonmail.com)
+
+Thank you for your support, and welcome to the Multi-Tiered community!
+

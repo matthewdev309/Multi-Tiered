@@ -70,7 +70,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Youtube
             altText: ''
             url: 'https://www.youtube.com/@Multi-Tiered/videos'
             showIcon: false

@@ -80,25 +80,12 @@ sections:
       - content/pages/projects/project-one.md
     styles:
       self:
-        height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-36
+          - pb-36
         justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
+        borderWidth: 1
     subtitle: Featured Projects
   - type: FeaturedPostsSection
     elementId: ''

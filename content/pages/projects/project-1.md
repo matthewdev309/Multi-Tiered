@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Project 1
 date: '2024-09-27'
-client: Awesome client
+client: Multi-Tiered
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

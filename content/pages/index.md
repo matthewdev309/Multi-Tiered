@@ -42,29 +42,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-e
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
-    subtitle: Featured Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Project 1
 date: '2024-09-27'
 client: Multi-Tiered
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Project 1 is under development
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -69,7 +69,7 @@ sections:
       - content/pages/projects/project-one.md
     styles:
       self:
-        width: full
+        width: narrow
         padding:
           - pt-36
           - pb-36

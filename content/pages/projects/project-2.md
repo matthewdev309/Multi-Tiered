@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Project 2
 date: '2024-09-27'
 client: Multi-Tiered
-description: Project 1 is under development
+description: Project 2 is under development
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

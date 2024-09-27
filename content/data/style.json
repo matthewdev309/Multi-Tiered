@@ -1,7 +1,7 @@
 {
     "type": "ThemeStyle",
     "light": "#ffffff",
-    "onLight": "#050806",
+    "onLight": "#36453b",
     "dark": "#000000",
     "onDark": "#FBFFF2",
     "primary": "#0804F6",
@@ -54,8 +54,8 @@
         "letterSpacing": "normal"
     },
     "buttonPrimary": {
-        "weight": "normal",
-        "case": "none",
+        "weight": "medium",
+        "case": "capitalize",
         "letterSpacing": "normal",
         "horizontalPadding": 20,
         "verticalPadding": 15

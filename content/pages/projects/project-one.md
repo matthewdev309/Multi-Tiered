@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Multi-Tiered.com is LIVE!!!
 colors: colors-a
 date: '2024-09-26'
-client: ''
+client: Multi-Tiered
 description: The website is finally live a home for our projects and other developments
 featuredImage:
   type: ImageBlock

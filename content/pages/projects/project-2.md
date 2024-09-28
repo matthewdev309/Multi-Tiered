@@ -6,7 +6,7 @@ client: Multi-Tiered
 description: Project 2 is under development
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/bg3.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''

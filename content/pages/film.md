@@ -7,9 +7,7 @@ sections:
     variant: variant-a
     title: We also create high quality content
     subtitle: Film & Photography
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: ''
     elementId: ''
     styles:
       self:

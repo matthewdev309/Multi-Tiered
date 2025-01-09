@@ -59,42 +59,45 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/info",
-                "altText": ""
+                "label": "Projects",
+                "altText": "Projects",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:multi-tiered@protonmail.com",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "label": "Info",
+                "altText": "Info",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "multi-tiered@protonmail.com",
-            "emailAltText": "Contact us",
-            "address": "",
-            "addressAltText": ""
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Call us",
+            "email": "john@doe.com",
+            "emailAltText": "Email us",
+            "address": "312 Lovely Street, NY",
+            "addressAltText": "Address",
+            "elementId": ""
         },
-        "copyrightText": "© 2024 Multi-Tiered. All rights reserved.\n\n",
+        "copyrightText": "Copyright text",
         "styles": {
             "self": {
                 "width": "narrow",
                 "padding": [
                     "pt-16",
                     "pb-16",
-                    "pr-4",
-                    "pl-4"
+                    "pl-4",
+                    "pr-4"
                 ]
             }
         }

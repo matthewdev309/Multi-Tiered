@@ -6,7 +6,7 @@ client: Multi-Tiered
 description: QuizApp is under development
 featuredImage:
   type: ImageBlock
-  url: /images/Edit.org_design_07-10-18--57.jpg
+  url: /images/QuizAppLogoTransparentLarge.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''

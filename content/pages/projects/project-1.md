@@ -26,6 +26,8 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-Project 1 Under development
+QuizApp is under development
 
 as detailed in the "[Multi-Tiered.com live](https://multi-tiered.com/blog/multi-tiered/)" post
+
+Multi-Tiered's first app

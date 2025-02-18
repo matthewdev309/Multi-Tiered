@@ -12,7 +12,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Screenshot 2025-02-17 135702.png
+  url: /images/Edit.org_design_07-10-18--57.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''

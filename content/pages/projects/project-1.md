@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Project 1
+title: QuizApp
 date: '2024-09-27'
 client: Multi-Tiered
 description: Project 1 is under development

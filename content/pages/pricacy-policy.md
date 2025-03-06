@@ -8,7 +8,7 @@ sections:
     title: Privacy Policy
     subtitle: ''
     text: >
-      # Multi-Tiered Privacy Policy
+      ## Multi-Tiered Privacy Policy
 
 
       **Effective Date:** 3 Mar 2025
@@ -23,7 +23,7 @@ sections:
       information.
 
 
-      ## 1. Overview
+      ### 1. Overview
 
 
       By installing, using, or accessing any of our applications or services,
@@ -32,7 +32,7 @@ sections:
       applications from your device.
 
 
-      ## 2. Information We Collect
+      ### 2. Information We Collect
 
 
       **Personal Information:**
@@ -58,7 +58,7 @@ sections:
       metrics to help us improve our services.
 
 
-      ## 3. How We Use Your Information
+      ### 3. How We Use Your Information
 
 
       *   **To Provide and Improve Our Services:** Your data helps us maintain,
@@ -78,7 +78,7 @@ sections:
       patterns so we can improve user experience.
 
 
-      ## 4. Data Sharing and Disclosure
+      ### 4. Data Sharing and Disclosure
 
 
       *   **Third-Party Services:** We share data only with third-party partners
@@ -94,7 +94,7 @@ sections:
       scopes, we will request your consent where required by law.
 
 
-      ## 5. User Rights and Account Management
+      ### 5. User Rights and Account Management
 
 
       *   **Access and Correction:** You have the right to review and update
@@ -111,7 +111,7 @@ sections:
       contacting us.
 
 
-      ## 6. Data Security
+      ### 6. Data Security
 
 
       We take data security seriously and implement industry-standard measures
@@ -120,7 +120,7 @@ sections:
       credentials.
 
 
-      ## 7. Children’s Privacy
+      ### 7. Children’s Privacy
 
 
       Our services are not directed to individuals under the age of 13 (or the
@@ -129,7 +129,7 @@ sections:
       inadvertently collected, please contact us immediately.
 
 
-      ## 8. Changes to This Policy
+      ### 8. Changes to This Policy
 
 
       Multi-Tiered may update this Privacy Policy from time to time. Any changes
@@ -137,7 +137,7 @@ sections:
       you to review our Privacy Policy periodically.
 
 
-      ## 9. Contact Us
+      ### 9. Contact Us
 
 
       If you have any questions, concerns, or requests regarding this Privacy

@@ -16,7 +16,7 @@
             },
             {
                 "type": "Link",
-                "label": "Privacy Policy",
+                "label": "Privacy",
                 "altText": "Privacy Policy",
                 "url": "/privacy-policy",
                 "showIcon": false,

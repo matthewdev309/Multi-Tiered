@@ -25,6 +25,11 @@
             },
             {
                 "type": "Link",
+                "label": "Blog",
+                "url": "/blog"
+            },
+            {
+                "type": "Link",
                 "label": "Privacy",
                 "altText": "Privacy Policy",
                 "url": "/privacy",
@@ -32,11 +37,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             },
             {
                 "type": "Link",

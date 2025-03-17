@@ -28,7 +28,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: T-Shirt'
+    title: T-Shirt
     items:
       - type: FeaturedItem
         title: I'm Fast

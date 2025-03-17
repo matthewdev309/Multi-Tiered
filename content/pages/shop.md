@@ -31,7 +31,7 @@ sections:
     title: T-Shirt
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: T-shirt
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante

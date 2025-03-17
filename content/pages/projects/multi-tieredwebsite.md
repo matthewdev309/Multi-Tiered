@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Multi-Tiered.com is LIVE!!!
+title: Multi-Tiered.com is LIVE!
 date: '2024-09-26'
 client: Multi-Tiered
 description: The website is finally live a home for our projects and other developments

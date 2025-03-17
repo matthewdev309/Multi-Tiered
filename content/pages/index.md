@@ -140,7 +140,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: TextSection
-    colors: colors-d
+    colors: colors-e
     variant: variant-b
     title: ''
     subtitle: ''

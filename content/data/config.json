@@ -30,14 +30,14 @@
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/info",
-                "icon": ""
+                "label": "Projects",
+                "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "About",
+                "url": "/info",
+                "icon": ""
             },
             {
                 "type": "Link",

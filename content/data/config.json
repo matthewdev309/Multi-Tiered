@@ -20,6 +20,11 @@
             },
             {
                 "type": "Link",
+                "label": "Projects",
+                "url": "/projects"
+            },
+            {
+                "type": "Link",
                 "label": "Privacy",
                 "altText": "Privacy Policy",
                 "url": "/privacy",
@@ -27,11 +32,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
             },
             {
                 "type": "Link",

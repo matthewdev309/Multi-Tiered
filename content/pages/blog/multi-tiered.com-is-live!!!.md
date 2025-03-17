@@ -36,7 +36,7 @@ We’ve recently transitioned to using **Netlify** and **GitHub Pages** to host 
 
 While the site may be basic right now, we’re working hard behind the scenes to roll out new features and projects. In the near future, you’ll be able to explore:
 
-*   **Privated** [**Project 1**](https://multi-tiered.com/projects/project-two/) *- currently in closed testing and private testing, Alpha testing Post coming soon*
+*   **Privated** [**QuizApp**](https://multi-tiered.com/projects/project-two/) *- currently in closed testing and private testing, Alpha testing Post coming soon*
 
 *   **Privated** [**Project 2**](https://multi-tiered.com/projects/project-three/) - *currently in development* \*\*\*\*
 

@@ -91,12 +91,12 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "multi-tiered@protonmail.com",
+            "phoneNumber": "850-123-5021",
+            "phoneAltText": "Call us",
+            "email": "john@doe.com",
             "emailAltText": "Email us",
-            "address": "",
-            "addressAltText": "",
+            "address": "312 Lovely Street, NY",
+            "addressAltText": "Address",
             "elementId": ""
         },
         "copyrightText": "Copyright text",

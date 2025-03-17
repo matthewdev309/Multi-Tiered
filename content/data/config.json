@@ -94,7 +94,7 @@
             "phoneNumber": "850-123-5021",
             "phoneAltText": "Call us",
             "email": "",
-            "emailAltText": "Email us",
+            "emailAltText": "",
             "address": "312 Lovely Street, NY",
             "addressAltText": "Address",
             "elementId": ""

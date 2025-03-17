@@ -20,12 +20,6 @@
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/info",
-                "icon": ""
-            },
-            {
-                "type": "Link",
                 "label": "Privacy",
                 "altText": "Privacy Policy",
                 "url": "/privacy",
@@ -33,6 +27,12 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/info",
+                "icon": ""
             },
             {
                 "type": "Link",

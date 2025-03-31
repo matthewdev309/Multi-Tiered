@@ -30,8 +30,8 @@ QuizApp is under development
 
 as detailed in the "[Multi-Tiered.com live](https://multi-tiered.com/blog/multi-tiered/)" post
 
-Multi-Tiered's first app "QuizApp'
+**Multi-Tiered's first app "QuizApp'**
 
+QuizApp is an integrated platform that facilitates the creation and sharing of notes, flashcards, and quizzes. It features a diverse range of question types, including multiple-choice, column matching, and term matching. This platform is tailored for university and college students, course creators, and general users, providing a valuable resource for educational engagement and knowledge assessment.
 
-
-![](/images/QuizApp%20Time%20slider%20gifvid%20lower%20qul.gif)
+*QuizCreator 1.4v. New Time-slider replacement for the time input field.*![](https://preview--multi-tiered-51a01.stackbit.dev/images/QuizApp%20Time%20slider%20gifvid%20lower%20qul.gif)// more to be added to this project post 

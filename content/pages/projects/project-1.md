@@ -30,4 +30,8 @@ QuizApp is under development
 
 as detailed in the "[Multi-Tiered.com live](https://multi-tiered.com/blog/multi-tiered/)" post
 
-Multi-Tiered's first app
+Multi-Tiered's first app "QuizApp'
+
+
+
+![](/images/QuizApp%20Time%20slider%20gifvid%20lower%20qul.gif)

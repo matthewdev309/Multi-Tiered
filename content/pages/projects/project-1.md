@@ -83,7 +83,7 @@ bottomSections:
       actions:
         justifyContent: center
   - type: MediaGallerySection
-    title: Gallery
+    title: QuizApp screenshots
     subtitle: This is the subtitle
     images:
       - type: ImageBlock

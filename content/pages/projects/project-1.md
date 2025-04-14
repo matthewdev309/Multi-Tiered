@@ -12,7 +12,6 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Edit.org_design_07-10-18--57.jpg
   altText: Project image
   caption: Caption of the image
   elementId: ''

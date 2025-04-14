@@ -33,10 +33,14 @@ bottomSections:
 
 
       <div style="text-align: left">*   PC version on Itch - target deadline(for
-      testers) - 2025/04/20, page setup, UI improvements for PC*   PC Public
-      version on Itch - target deadline 2025/5/14*   Mobile Version on Google
-      Play - Undecided/suspended*   Mobile Firebase - Available for testers
-      version 0.1.09 new version 0.1.10 coming soon</div>
+      testers) - 2025/04/20, page setup, UI improvements for PC
+
+      *   PC Public version on Itch - target deadline 2025/5/14
+
+      *   Mobile Version on Google Play - Undecided/suspended
+
+      *   Mobile Firebase - Available for testers version 0.1.09 new version
+      0.1.10 coming soon</div>
 
     actions:
       - type: Button

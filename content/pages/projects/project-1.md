@@ -72,7 +72,7 @@ bottomSections:
           width="552" height="167"><a
           href="https://multi-tiered.itch.io/quizapp">QuizApp by
           Multi-Tiered</a></iframe>
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         elementId: ''

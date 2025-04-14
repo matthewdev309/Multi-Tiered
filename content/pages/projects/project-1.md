@@ -3,7 +3,7 @@ type: ProjectLayout
 title: QuizApp
 date: '2024-09-27'
 client: Multi-Tiered
-description: QuizApp is under development
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/QuizAppLogoTransparentLarge.png

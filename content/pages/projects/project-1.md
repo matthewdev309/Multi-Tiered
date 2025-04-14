@@ -87,7 +87,7 @@ bottomSections:
     subtitle: ''
     actions:
       - type: Button
-        label: Hire me
+        label: ''
         altText: ''
         url: /
         showIcon: true

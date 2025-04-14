@@ -83,9 +83,7 @@ bottomSections:
       actions:
         justifyContent: center
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: ''
     subtitle: ''
     actions:
       - type: Button

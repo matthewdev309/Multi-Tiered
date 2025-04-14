@@ -84,7 +84,7 @@ bottomSections:
         justifyContent: center
   - type: MediaGallerySection
     title: QuizApp screenshots
-    subtitle: This is the subtitle
+    subtitle: screenshots and GIFS
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg

@@ -32,7 +32,7 @@ bottomSections:
       website or official store fronts
     actions:
       - type: Button
-        label: Web
+        label: Web Desktop
         altText: ''
         url: /
         showIcon: true

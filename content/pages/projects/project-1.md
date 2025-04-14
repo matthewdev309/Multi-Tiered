@@ -97,7 +97,7 @@ bottomSections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/QuizApp Time slider gifvid Med Quality.gif
       altText: Hero image
       caption: Caption of the image
       elementId: ''

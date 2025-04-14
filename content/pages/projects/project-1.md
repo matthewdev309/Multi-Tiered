@@ -26,7 +26,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: CtaSection
-    title: Let's do this
+    title: Available Downloads and platforms
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.

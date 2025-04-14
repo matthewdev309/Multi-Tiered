@@ -29,7 +29,7 @@ bottomSections:
     title: Available Downloads and platforms
     text: >
       You can download QuizApp on the available platforms directly though the
-      website or official platforms
+      website or official store fronts
     actions:
       - type: Button
         label: Web

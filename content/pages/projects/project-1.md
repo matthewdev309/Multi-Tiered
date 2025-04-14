@@ -41,15 +41,6 @@ bottomSections:
         style: primary
         elementId: ''
       - type: Button
-        label: PC
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: Android
         altText: ''
         url: /

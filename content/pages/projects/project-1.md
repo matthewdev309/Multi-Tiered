@@ -64,6 +64,18 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: >-
+          <iframe frameborder="0" src="https://itch.io/embed/3473968"
+          width="552" height="167"><a
+          href="https://multi-tiered.itch.io/quizapp">QuizApp by
+          Multi-Tiered</a></iframe>
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     colors: colors-e
     backgroundSize: full
     elementId: ''

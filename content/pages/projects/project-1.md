@@ -33,7 +33,7 @@ bottomSections:
     actions:
       - type: Button
         label: PC
-        altText: 'https://multi-tiered.itch.io/quizapp'
+        altText: ''
         url: /
         showIcon: true
         icon: arrowRight

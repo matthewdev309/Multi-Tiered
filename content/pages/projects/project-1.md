@@ -87,7 +87,7 @@ bottomSections:
     subtitle: screenshots and GIFS
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/QuizApp Time slider gifvid lower qul.gif
         altText: Image one
         caption: Image one caption
         elementId: ''

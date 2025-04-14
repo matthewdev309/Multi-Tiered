@@ -82,48 +82,6 @@ bottomSections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: HeroSection
-    title: ''
-    subtitle: ''
-    actions:
-      - type: Button
-        label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/QuizApp Time slider gifvid Med Quality.gif
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---
 QuizApp is under development
 

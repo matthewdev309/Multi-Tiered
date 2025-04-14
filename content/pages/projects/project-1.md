@@ -34,7 +34,7 @@ bottomSections:
       - type: Button
         label: PC
         altText: ''
-        url: /
+        url: 'https://multi-tiered.itch.io/quizapp'
         showIcon: true
         icon: arrowRight
         iconPosition: right

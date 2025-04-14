@@ -41,7 +41,7 @@ bottomSections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: PC
         altText: ''
         url: /
         showIcon: false

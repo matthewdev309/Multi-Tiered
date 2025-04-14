@@ -32,7 +32,7 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Web
         altText: ''
         url: /
         showIcon: true

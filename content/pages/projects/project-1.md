@@ -27,9 +27,9 @@ backgroundImage:
 bottomSections:
   - type: CtaSection
     title: Available Downloads and platforms
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      You can download QuizApp on the available platforms directly though the
+      website or official platforms
     actions:
       - type: Button
         label: Web

@@ -50,7 +50,7 @@ bottomSections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Android
         altText: ''
         url: /
         showIcon: false

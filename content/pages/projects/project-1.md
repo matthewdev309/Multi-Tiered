@@ -40,10 +40,7 @@ bottomSections:
       *   Mobile Version on Google Play - Undecided/suspended
 
       *   Mobile Firebase - Available for testers version 0.1.09 new version
-      0.1.10 coming soon<iframe frameborder="0"
-      src="https\://itch.io/embed/3473968" width="552" height="167"><a
-      href="https\://multi-tiered.itch.io/quizapp">QuizApp by
-      Multi-Tiered</a></iframe></div>
+      0.1.10 coming soon</div>
 
     actions:
       - type: Button

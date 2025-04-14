@@ -32,7 +32,7 @@ bottomSections:
       website or official store fronts
     actions:
       - type: Button
-        label: PC
+        label: PC - Itch.io
         altText: ''
         url: 'https://multi-tiered.itch.io/quizapp'
         showIcon: true

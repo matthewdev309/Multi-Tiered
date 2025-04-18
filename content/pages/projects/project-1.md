@@ -97,7 +97,11 @@ QuizApp is an integrated platform that facilitates the creation and sharing of n
 
 ### ***QuizCreation system***![](/images/ezgif.com-video-to-gif-converter.gif)
 
-<div style="text-align: left">### **Edit Mode**![](https://github.com/matthewdev309/Multi-Tiered/blob/ea8b6ff9d03b7819b2e657e022281adde6c8b730/quizcreatorgif2.gif?raw=true)***25/04/09 - 25/04/14*</div>
+<div style="text-align: left">### **Edit Mode**![](https://github.com/matthewdev309/Multi-Tiered/blob/ea8b6ff9d03b7819b2e657e022281adde6c8b730/quizcreatorgif2.gif?raw=true)**</div>
+
+
+
+25/04/09 - 25/04/14
 
 **New AddQuestion feature**
 

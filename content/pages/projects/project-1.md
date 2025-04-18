@@ -93,11 +93,11 @@ You can also get the latest updates from Twitter, [YouTube ](https://www.youtube
 
 QuizApp is an integrated platform that facilitates the creation and sharing of notes, flashcards, and quizzes. It features a diverse range of question types, including multiple-choice, column matching, and term matching. This App is tailored for university and college students, course creators, and general users, providing a valuable resource for educational engagement and knowledge assessment.
 
-<div style="text-align: left">### *25/03/31: **QuizCreator 1.4v**. QuizCreation system*\*\*![](/images/ezgif.com-video-to-gif-converter.gif)**Edit Mode**![](https://github.com/matthewdev309/Multi-Tiered/blob/ea8b6ff9d03b7819b2e657e022281adde6c8b730/quizcreatorgif2.gif?raw=true)*25/04/09 - 25/04/14*</div>
+*25/03/31: **QuizCreator 1.4v**. *
 
-</div>
+### ***QuizCreation system***![](/images/ezgif.com-video-to-gif-converter.gif)****
 
-\*\*
+<div style="text-align: left">### **Edit Mode**![](https://github.com/matthewdev309/Multi-Tiered/blob/ea8b6ff9d03b7819b2e657e022281adde6c8b730/quizcreatorgif2.gif?raw=true)***25/04/09 - 25/04/14*</div>
 
 **New AddQuestion feature**
 

@@ -93,9 +93,9 @@ You can also get the latest updates from Twitter, [YouTube ](https://www.youtube
 
 QuizApp is an integrated platform that facilitates the creation and sharing of notes, flashcards, and quizzes. It features a diverse range of question types, including multiple-choice, column matching, and term matching. This App is tailored for university and college students, course creators, and general users, providing a valuable resource for educational engagement and knowledge assessment.
 
-<div style="text-align: left">*25/03/31: **QuizCreator 1.4v**. QuizCreation system*\*\*![](/images/ezgif.com-video-to-gif-converter.gif)</div>
+<div style="text-align: left">*25/03/31: **QuizCreator 1.4v**. QuizCreation system*\*\*![](/images/ezgif.com-video-to-gif-converter.gif)*25/04/09 - 25/04/14*</div>
 
-*25/04/09 - 25/04/14*
+**
 
 **New AddQuestion feature**
 
@@ -120,3 +120,4 @@ Lots of new limitations polishing up the quiz creation system and editing system
 // more to be added to this project post last updated: 2025/04/14 next estimated update \~
 
 <iframe frameborder="0" src="https\://itch.io/embed/3473968" width="552" height="167"><a href="https\://multi-tiered.itch.io/quizapp">QuizApp by Multi-Tiered</a></iframe>
+

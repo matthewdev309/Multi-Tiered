@@ -95,7 +95,7 @@ QuizApp is an integrated platform that facilitates the creation and sharing of n
 
 <div style="text-align: left">*25/03/31: **QuizCreator 1.4v**. QuizCreation system*\*\*![](/images/ezgif.com-video-to-gif-converter.gif)*25/04/09 - 25/04/14*</div>
 
-**
+\*\*
 
 **New AddQuestion feature**
 
@@ -118,6 +118,4 @@ Lots of new limitations polishing up the quiz creation system and editing system
 **Added Downloads page** to the website at the bottom of the Project page distribution will be live soon(est 2025/05/14) we have decided to push back the release of QuizApp on Google Play due to new policies effecting personal accounts and organizational accounts requiring us to change account type and also register an LLC which will be done later in the future
 
 // more to be added to this project post last updated: 2025/04/14 next estimated update \~
-
-<iframe frameborder="0" src="https\://itch.io/embed/3473968" width="552" height="167"><a href="https\://multi-tiered.itch.io/quizapp">QuizApp by Multi-Tiered</a></iframe>
 

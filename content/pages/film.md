@@ -104,7 +104,7 @@ sections:
         justifyContent: flex-start
   - type: MediaGallerySection
     title: Gallery(Place holder will update soon)
-    subtitle: This is the subtitle
+    subtitle: Check artists and Photographers Instagram or personal sites for their work
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg

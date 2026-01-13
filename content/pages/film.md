@@ -70,7 +70,7 @@ sections:
           - type: Button
             label: ''
             altText: Instagram or website
-            url: /
+            url: 'https://www.instagram.com/matty.0303/'
             showIcon: true
             icon: arrowRight
             iconPosition: right

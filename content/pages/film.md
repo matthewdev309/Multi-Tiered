@@ -44,7 +44,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: 'https://www.instagram.com/byronhuds0nmay/'
             showIcon: true
             icon: arrowRight
             iconPosition: right

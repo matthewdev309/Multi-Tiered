@@ -55,7 +55,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Matthew de Villiers
+        title: Matthew de Villiers Photographer
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante

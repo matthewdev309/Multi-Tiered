@@ -57,10 +57,8 @@ sections:
       - type: FeaturedItem
         title: Matthew de Villiers Photographer
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Matthew De Villiers for providing photos to websites
         featuredImage:
           type: ImageBlock
           url: >-

@@ -43,7 +43,7 @@ sections:
         actions:
           - type: Button
             label: ''
-            altText: ''
+            altText: Instagram Profile or site
             url: 'https://www.instagram.com/byronhuds0nmay/'
             showIcon: true
             icon: arrowRight

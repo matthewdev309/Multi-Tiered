@@ -25,9 +25,86 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedItemsSection
+    title: Artists and Photographers
+    items:
+      - type: FeaturedItem
+        title: Byron May Photographer
+        subtitle: ''
+        text: |
+          Byron May for providing photos for websites 
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: Instagram Profile or site
+            url: 'https://www.instagram.com/byronhuds0nmay/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Matthew de Villiers Photographer
+        subtitle: ''
+        text: |
+          Matthew De Villiers for providing photos to websites
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: Instagram or website
+            url: 'https://www.instagram.com/matty.0303/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
+    title: Gallery(Place holder will update soon)
+    subtitle: Check artists and Photographers Instagram or personal sites for their work
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg

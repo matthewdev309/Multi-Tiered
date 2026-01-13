@@ -69,7 +69,7 @@ sections:
         actions:
           - type: Button
             label: ''
-            altText: ''
+            altText: Instagram or website
             url: /
             showIcon: true
             icon: arrowRight

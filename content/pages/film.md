@@ -103,7 +103,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: MediaGallerySection
-    title: Gallery
+    title: Gallery(Place holder will update soon)
     subtitle: This is the subtitle
     images:
       - type: ImageBlock

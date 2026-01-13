@@ -32,7 +32,7 @@ sections:
         title: Byron May Photographer
         subtitle: ''
         text: |
-          Byron May Instagram link: <https://www.instagram.com/byronhuds0nmay/>
+          Byron May for providing photos for websites 
         featuredImage:
           type: ImageBlock
           url: >-

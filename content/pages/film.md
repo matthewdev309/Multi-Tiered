@@ -29,7 +29,7 @@ sections:
     title: Artists and Photographers
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Byron May Photographer
         subtitle: ''
         text: |
           Byron May Instagram link: <https://www.instagram.com/byronhuds0nmay/>
